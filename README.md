@@ -1,5 +1,22 @@
-# Udacity-AI-for-Healthcare
-The aim of this project was to try to classify X-ray images into the respective classes: pneumonia and non-pneumonia
+# Pneumonia Detection From Chest X-Rays
+
+## Project Overview  
+The aim of this project was to see if you can classify X-ray images into the respective classes: pneumonia and non-pneumonia.  
+
+## Why?   
+Chest X-ray exams are one of the most frequent and cost-effective types of medical imaging examinations. Deriving clinical diagnoses from chest X-rays can be challenging, however, even by skilled radiologists.
+
+When it comes to pneumonia, chest X-rays are the best available method for diagnosis. More than 1 million adults are hospitalized with pneumonia and around 50,000 die from the disease every year in the US alone. The high prevalence of pneumonia makes it a good candidate for the development of a deep learning application for two reasons:  
+1) Data availability in a high enough quantity for training deep learning models for image classification  
+2) Opportunity for clinical aid by providing higher accuracy image reads of a difficult-to-diagnose disease and/or reduce clinical burnout by performing automated reads of very common scans.
+
+The diagnosis of pneumonia from chest X-rays is difficult for several reasons:
+- The appearance of pneumonia in a chest X-ray can be very vague depending on the stage of the infection
+ - Pneumonia often overlaps with other diagnoses  
+ - Pneumonia can mimic benign abnormalities
+ 
+
+
 
 If you're curious how I approached this project, then you can see all the steps in detail through the following notebooks:  
 (The best way to view these notebooks is via your webbrowser & nbviewer)
@@ -8,8 +25,11 @@ If you're curious how I approached this project, then you can see all the steps 
  3) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Inference.ipynb
  4) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/FDA_Submission.ipynb
 
-
+<br/>
+<br/>
 <img src="./images/X-rays.png" />
+<br/>
+<br/>
 
 ----------------------------------------------------------------------------------
 
