@@ -1,3 +1,18 @@
+# Udacity-AI-for-Healthcare
+The aim of this project was to try to classify X-ray images into the respective classes: pneumonia and non-pneumonia
+
+If you're curious how I approached this project, then you can see all the steps in detail through the following notebooks:  
+(The best way to view these notebooks is via your webbrowser & nbviewer)
+ 1) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/EDA.ipynb
+ 2) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Build%20and%20train%20model.ipynb
+ 3) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Inference.ipynb
+ 4) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/FDA_Submission.ipynb
+
+
+<img src="./images/X-rays.png" />
+
+----------------------------------------------------------------------------------
+
 # FDA  Submission
 
 **Your Name:** Dieter Verbeemen
