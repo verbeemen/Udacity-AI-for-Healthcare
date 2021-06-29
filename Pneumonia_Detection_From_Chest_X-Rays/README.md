@@ -20,10 +20,10 @@ The diagnosis of pneumonia from chest X-rays is difficult for several reasons:
 
 If you're curious how I approached this project, then you can see all the steps in detail through the following notebooks:  
 (The best way to view these notebooks is via your webbrowser & nbviewer)
- 1) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/EDA.ipynb
- 2) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Build%20and%20train%20model.ipynb
- 3) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Inference.ipynb
- 4) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/FDA_Submission.ipynb
+ 1) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Pneumonia_Detection_From_Chest_X-Rays/EDA.ipynb
+ 2) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Pneumonia_Detection_From_Chest_X-Rays/Build%20and%20train%20model.ipynb
+ 3) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Pneumonia_Detection_From_Chest_X-Rays/Inference.ipynb
+ 4) https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Pneumonia_Detection_From_Chest_X-Rays/FDA_Submission.ipynb
 
 <br/>
 <br/>
