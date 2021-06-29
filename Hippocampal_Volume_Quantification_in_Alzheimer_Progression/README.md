@@ -9,7 +9,7 @@ A radiological study via MRI exam is currently one of the most advanced methods 
 The hippocampus is a critical structure of the human brain (and the brain of other vertebrates) that plays important roles in the consolidation of information from short-term memory to long-term memory. In other words, the hippocampus is thought to be responsible for memory and learning (that's why we are all here, after all!)
 
 <div align="center">  
-<img style="max-width:100%;height: 500px !important;" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/hippocampus-small.gif"/>
+<img height="500px" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/hippocampus-small.gif"/>
     
 **Hippocampus**  
 *Source: Life Science Databases (LSDB). Hippocampus. Images are from Anatomography maintained by Life Science Databases (LSDB). (2010). CC-BY-SA 2.1jp. Link*
@@ -19,7 +19,8 @@ The hippocampus is a critical structure of the human brain (and the brain of oth
 Humans have two hippocampi, one in each hemisphere of the brain. They are located in the medial temporal lobe of the brain. Fun fact - the word "hippocampus" is roughly translated from Greek as "horselike" because of the similarity to a seahorse observed by one of the first anatomists to illustrate the structure, but you can also see the comparison in the following image.  
 
 <div align="center">  
-<img style="max-width:100%;height: 500px !important;" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/hippocampus-and-seahorse-cropped.jpg"/>     
+<img height="350px" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/hippocampus-and-seahorse-cropped.jpg"/>  
+    
 **Seahorse & Hippocampus**  
 *Source: Seress, Laszlo. Laszlo Seress' preparation of a human hippocampus alongside a sea horse. (1980). CC-BY-SA 1.0. Link*
 </div>
@@ -30,7 +31,7 @@ According to Nobis et al., 2019, the volume of hippocampus varies in a populatio
 You can see this in the image below where the right hippocampal volume of women across ages 52 - 71 is shown.
 
 <div align="center">  
-<img style="max-width:100%;height: 500px !important;" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/nomogram-fem-right.jpg"/>   
+<img height="500px" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/nomogram-fem-right.jpg"/>   
   
 **Nomogram - Female, Right Hippocampus Volume, Corrected for Head Size**  
 *Source: Nobis, L., Manohar, S.G., Smith, S.M., Alfaro-Almagro, F., Jenkinson, M., Mackay, C.E., Husain, M. Hippocampal volume across age: Nomograms derived from over 19,700 people in UK Biobank. Neuroimage: Clinical, 23(2019), pp. 2213-1582.*
@@ -41,7 +42,7 @@ There is one problem with measuring the volume of the hippocampus using MRI scan
 
 
 <div align="center">  
-<img style="max-width:100%;height: 500px !important;" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/mri.jpg"/>   
+<img height="500px" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/images/mri.jpg"/>   
   
 *Axial slice of an MRI image of the brain*   
 </div>
