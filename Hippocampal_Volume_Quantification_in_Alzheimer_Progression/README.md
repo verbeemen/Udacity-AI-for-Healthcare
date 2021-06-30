@@ -78,3 +78,8 @@ It wouldn't be much of an overstatement to say that almost every academic medica
 - [Stanford's AIMI](https://aimi.stanford.edu/)
 - [National Consortium of Intelligent Medical Imaging](https://www.medsci.ox.ac.uk/research/networks/national-consortium-of-intelligent-medical-imaging), kicked off by the University of Oxford and the UK's National Health Service
 
+### urls
+ - [Difference between Alzheimer’s and Dementia](https://medium.com/aginginbeauty/what-is-the-difference-between-alzheimers-disease-and-dementia-84a571b6b50d)  
+ - [How Artificial intelligence could speed up and improve Alzheimer's diagnosis](https://www.sciencedaily.com/releases/2020/07/200728121223.htm)  
+ - [How AI Is Changing Medical Imaging](https://blogs.nvidia.com/blog/2019/03/04/how-ai-is-changing-medical-imaging/)  
+ - [How 3D Technology Is Transforming Medical Imaging](https://healthtechmagazine.net/article/2018/07/how-3d-technology-transforming-medical-imaging-perfcon)
