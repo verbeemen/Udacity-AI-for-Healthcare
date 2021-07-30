@@ -15,5 +15,5 @@ This project will demonstrate the importance of building the right data represen
 Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of publicly available datasets and some datasets require training and approval. So, for the purpose of this exercise, we are using a dataset from UC Irvine that has been modified for this course. Please note that it is limited in its representation of some key features such as diagnosis codes which are usually an unordered list in 835s/837s (the HL7 standard interchange formats used for claims and remits).
 
 
-# The notebook (better view)
+# The notebook (More user friendly)
 - [student_project.ipynb](https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Patient_Selection_for_Diabetes_Drug_Testing/student_project.ipynb)
