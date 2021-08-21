@@ -1,8 +1,13 @@
-# Overview
+# Pat 1: Pulse Rate Estimation
 This project has 2 main parts.
 
 - Develop a **Pulse Rate Algorithm** on the given training data & see if it met the success criteria.
 - Apply the Pulse Rate Algorithm on a **Clinical Application** and compute more clinically meaningful features and discover healthcare trends.
+
+# Notebooks:
+ - [part 1 : pulse_rate_starter.ipynb](https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Proj_4_-_Motion_Compensated_Pulse_rate_estimation/Part%201%20-%20Pulse%20Rate%20Algorithm/pulse_rate_starter.ipynb)
+ - [part 2 : clinical_app_starter.ipynb](https://nbviewer.jupyter.org/github/verbeemen/Udacity-AI-for-Healthcare/blob/main/Proj_4_-_Motion_Compensated_Pulse_rate_estimation/part%202%20-%20Clinical%20Application/clinical_app_starter.ipynb)
+
 
 # Introduction
 A core feature that many users expect from their wearable devices is pulse rate estimation. Continuous pulse rate estimation can be informative for many aspects of a wearer's health. Pulse rate during exercise can be a measure of workout intensity and resting heart rate is sometimes used as an overall measure of cardiovascular fitness. In this project I've created a pulse rate estimation algorithm for a wrist-wearable device. 
