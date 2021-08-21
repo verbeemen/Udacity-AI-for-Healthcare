@@ -8,5 +8,5 @@ And provided this information, along with the masked Hippocampal into the OHIF a
 https://ohif.org/
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Hippocampal_Volume_Quantification_in_Alzheimer_Progression/section_3/ohif.png"/>
+  <img src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Proj_2_-_Hippocampal_Volume_Quantification_in_Alzheimer_Progression/section_3/ohif.png"/>
 </div>
