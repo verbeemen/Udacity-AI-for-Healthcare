@@ -11,6 +11,8 @@ Tip: The best way to read a notebook is via: [nbviewer.jupyter.org](nbviewer.jup
 <br/>  
 <br/>  
 <div align="center">  
+  
 --------------------  
+  
 <img heigth="750px" src="https://raw.githubusercontent.com/verbeemen/Udacity-AI-for-Healthcare/main/Proj_2_-_Hippocampal_Volume_Quantification_in_Alzheimer_Progression/section_1/img/section_2.png" />
 <div />
